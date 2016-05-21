@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Lateef);
+body {
+  background-image: url("http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-49914.jpg");
+}
+
+p {
+  text-align: center;
+  font-family: "Lateef";
+  font-size: 60px;
+}
+
+.jumbo {
+  background-color: transparent;
+}
+
+.well {
+  width: 270px;
+  width: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  height: fixed;
+}
+
+.output {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: right;
+}
+
+#lRow {
+  text-align: left;
+  margin-top: 4px;
+  float: left;
+  width: 130px;
+}
+
+#rRow {
+  text-align: left;
+  margin-top: 4px;
+  margin-right: 0px;
+  float: right;
+  width: 80px;
+}
+
+.btn {
+  margin-top: 2px;
+  width: 38px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.btnR {
+  width: 80px;
+}
